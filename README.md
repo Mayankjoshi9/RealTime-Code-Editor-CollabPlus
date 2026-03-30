@@ -16,7 +16,7 @@ A **real-time, web-based** collaborative code editor that allows multiple users 
 ### 🔹 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmalRitessh/Collaborative-Code-Editor.git
+   git clone https://github.com/Mayankjoshi9/Collaborative-Code-Editor.git
    cd Collaborative-Code-Editor
    ```
 2. Create a Docker image:
