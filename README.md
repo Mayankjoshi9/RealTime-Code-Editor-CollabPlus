@@ -1,4 +1,4 @@
-# 🖥️ CollaBrix
+# 🖥️ CollabPlus
 
 A **real-time, web-based** collaborative code editor that allows multiple users to code together in the same environment. The platform enables developers to **write, edit, and execute** code collaboratively with seamless communication.
 
@@ -16,17 +16,17 @@ A **real-time, web-based** collaborative code editor that allows multiple users 
 ### 🔹 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mayankjoshi9/Collaborative-Code-Editor.git
-   cd Collaborative-Code-Editor
+   git clone https://github.com/Mayankjoshi9/RealTime-Code-Editor-CodeSync.git
+   cd RealTime-Code-Editor-CodeSync
    ```
 2. Create a Docker image:
    ```bash
-   docker build -t collabrix .
+   docker build -t collabplus .
    ```
 
-3. Run a container from the `collabrix` image:
+3. Run a container from the `collaplus` image:
    ```bash
-   docker run -p 5000:5000 collabrix
+   docker run -p 5000:5000 collaplus
    ```
 
 4. Open the app in your browser:
